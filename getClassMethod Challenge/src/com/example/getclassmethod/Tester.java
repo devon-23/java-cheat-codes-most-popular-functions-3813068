@@ -10,8 +10,7 @@ public class Tester {
         // object.
 
         // Replace the line below with the actual call to the getClassName() method
-        // System.out.println("Class name provided by Answer object: " +
-        // answer.getClassName());
+        System.out.println("Class name provided by Answer object: " + answer.getClassName());
 
     }
 }
